@@ -16,3 +16,11 @@ To refresh and extend my git skills, I completed the 7 hour Git Fundamentals cou
 - Using submodules with `git submodules`
 - Trunk Based Development
 
+Afterwards I completed the 9 hour GitHub Fundamentals course (includes some content from Git Fundamentals course) which included regular day-to-day as well as advanced concepts like:
+
+- Creating and cloning repositories
+- Managing collaborators
+- Issues, Pull requests, Reviews
+- Github Projects, Actions, Insights
+- Administration and authorization
+- Roles, Access tokens, security practices
