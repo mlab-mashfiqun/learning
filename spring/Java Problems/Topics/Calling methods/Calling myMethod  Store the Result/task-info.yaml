@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: int myResult = myObject.myMethod(2 * myDouble);
+  - text: int myResult = myObject.myMethod(myDouble);
+  - text: myObject.myMethod(2 * myDouble);
+  - text: int myResult = myObject.myMethod((double) myDouble);
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/30024#comment
+status: Solved
+record: -1
+custom_name: "Calling myMethod: Store the Result"
+local_check: false

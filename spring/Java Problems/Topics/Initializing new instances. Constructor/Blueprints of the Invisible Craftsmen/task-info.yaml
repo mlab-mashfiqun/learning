@@ -1,0 +1,29 @@
+type: matching
+captions:
+  - this
+  - new
+  - Constructor
+  - Instance Variable
+  - Default Constructor
+options:
+  - "A variable declared inside a class but outside any method, which holds data associated\
+  \ with each instance of the class."
+  - "A special method in a class that is called when a new object is instantiated, used\
+  \ to set initial values."
+  - "A keyword used to create an instance of a class, allocating memory for a new object."
+  - A reference to the current object whose method or constructor is being invoked.
+  - A constructor provided by Java if no other constructors are explicitly declared
+    in a class; initializes object's fields with default values.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47930#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4

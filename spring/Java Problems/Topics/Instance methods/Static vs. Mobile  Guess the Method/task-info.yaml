@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Static methods like &#x27;displayTotalCars&#x27; cannot directly access instance
+      variables like &#x27;model&#x27;.
+  - text: "The static method &#x27;displayTotalCars&#x27; can be invoked using the class\
+    \ name, as in &#x27;Car.displayTotalCars();&#x27;."
+  - text: "Instance methods cannot be called using the class name alone without an object,\
+    \ unlike static methods."
+  - text: "In the static method &#x27;displayTotalCars&#x27;, the &#x27;this&#x27; keyword\
+    \ can be used to refer to &#x27;totalCars&#x27;."
+  - text: Instance methods like &#x27;displayModel&#x27; can reference both instance
+      variables like &#x27;model&#x27; and static variables like &#x27;totalCars&#x27;.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47961#comment
+status: Solved
+record: -1
+custom_name: "Static vs. Mobile: Guess the Method!\""
+local_check: false

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Topics/Array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Calling varargs" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Inverse boolean flags" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs method invocation" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Bus tour" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Divisible by 4" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The integer barrier" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The same results" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Abs method" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Calling myMethod  Store the Result" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Correct names for methods" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Division" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Find the max of three numbers" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Method signature" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Rectangles  The shape of things to sum" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Accounts" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Correct fields" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Missing parts" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Points" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Select the statement" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Spot the Errors  Reading and Summing Integers" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/A quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Checking divisibility and printing appropriate strings" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Decomposing switch cases in Java" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Stop, yield, go  Traffic conductor's waltz" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/BankAccount Balance  Getters   Setters" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Book" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Complex" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Creating a class for a book with private properties" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Exploring Encapsulation in Java" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Fixing a greeting program" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Required input" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Multiple names of superclasses and subclasses" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/calculating triangle perimeter" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Blueprints of the Invisible Craftsmen" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/How to write a constructor" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Declare me" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/In a box" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Static vs. Mobile  Guess the Method" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/The Robot class" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Alphabetical order" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Classifying integers as 'Odd' or 'Even'" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sum array elements greater than a value" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Creating a 'Hello, World!' program from scrambled code" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Running a program without main" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Select all correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Theory" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Unknown input" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Calculations with two or three numbers from input" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Implementing polymorphic add functions" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Print" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Topics/String/Finding string expressions" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
