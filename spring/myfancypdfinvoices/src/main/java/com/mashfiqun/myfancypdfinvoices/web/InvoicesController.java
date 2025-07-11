@@ -25,4 +25,6 @@ public class InvoicesController {
     public Invoice createInvoice(@RequestParam("user_id") @NotBlank String userId, @RequestParam("amount") @Min(10) @Max(50) Integer amount) {
         return invoiceService.create(userId, amount);
     }
+
+
 }
