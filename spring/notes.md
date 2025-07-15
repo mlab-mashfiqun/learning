@@ -4,3 +4,5 @@ On top of that I learned how to add Spring to a project with a single dependency
 I also learned about Spring MVC, replaced my HttpServlet with DispatcherServlet, learned about @RestControllers, handled content negotiation, learned about various ways of accepting request params, path variables and request bodies. Finally, I learned how to validate beans or parameters while changing exceptions with RestControllerAdvice.
 - **July 11**: Learned how to setup and connect Thymeleaf with Spring, how to render some HTML with the Thymeleaf syntax and submitting + validating form fields.
 I learned how to embed H2 Database, what DataSources are and used JdbcTemplate and @Transactional to get a taste of Spring's transaction management.
+I learned how Spring Boot actually does a lot of the configurations itself - embedding Tomcat, generating certain @Beans automatically and how it makes dependency management much easier.
+- **July 14**: I saw some internal Spring Boot code, how AutoConfigurations worked and wrote a simple AutoConfiguration of my own to test it out. Learned how to connect repositories to a project by interfacing the CrudRepository of Spring Data JDBC.

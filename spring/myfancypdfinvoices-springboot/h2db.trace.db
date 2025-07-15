@@ -1,0 +1,6 @@
+2025-07-11 17:33:27.760011+06:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "INVOICES" not found (this database is empty); SQL statement:
+insert into invoices (user_id, pdf_url, amount) values (?, ?, ?) [42104-232]
+2025-07-11 17:34:27.186669+06:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "INVOICES" not found (this database is empty); SQL statement:
+select id, user_id, pdf_url, amount from invoices [42104-232]

@@ -86,3 +86,5 @@ There are OUTER JOINs as well. The most common ones are:
 - Right join: retains all the information of the right table and populates missing data for the left table with null.
 
 Right joins are less common because left join is more intuitive and all right joins can be written as left joins as well.
+
+Apart from that there is FULL JOIN which combines the characteristics of both LEFT and RIGHT joins. I also learned about SELF join (join with the same table) and CROSS join which produces every combination of two tables (or columns). The syntax is the same as previous JOINs, with their appropriate keywords.

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Functional decomposition/A quadratic equation/A quadratic equation.iml" filepath="$PROJECT_DIR$/Functional decomposition/A quadratic equation/A quadratic equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calling methods/Abs method/Abs method.iml" filepath="$PROJECT_DIR$/Calling methods/Abs method/Abs method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Initializing new instances. Constructor/Account and its owner/Account and its owner.iml" filepath="$PROJECT_DIR$/Initializing new instances. Constructor/Account and its owner/Account and its owner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Defining classes/Accounts/Accounts.iml" filepath="$PROJECT_DIR$/Defining classes/Accounts/Accounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterating over arrays/Alphabetical order/Alphabetical order.iml" filepath="$PROJECT_DIR$/Iterating over arrays/Alphabetical order/Alphabetical order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Getters and setters/BankAccount Balance  Getters   Setters/BankAccount Balance  Getters   Setters.iml" filepath="$PROJECT_DIR$/Getters and setters/BankAccount Balance  Getters   Setters/BankAccount Balance  Getters   Setters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Initializing new instances. Constructor/Blueprints of the Invisible Craftsmen/Blueprints of the Invisible Craftsmen.iml" filepath="$PROJECT_DIR$/Initializing new instances. Constructor/Blueprints of the Invisible Craftsmen/Blueprints of the Invisible Craftsmen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Getters and setters/Book/Book.iml" filepath="$PROJECT_DIR$/Getters and setters/Book/Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Break and continue. Branching/Bus tour/Bus tour.iml" filepath="$PROJECT_DIR$/Break and continue. Branching/Bus tour/Bus tour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overloading/Calculations with two or three numbers from input/Calculations with two or three numbers from input.iml" filepath="$PROJECT_DIR$/Overloading/Calculations with two or three numbers from input/Calculations with two or three numbers from input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calling methods/Call me awesome/Call me awesome.iml" filepath="$PROJECT_DIR$/Calling methods/Call me awesome/Call me awesome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calling methods/Calling myMethod  Store the Result/Calling myMethod  Store the Result.iml" filepath="$PROJECT_DIR$/Calling methods/Calling myMethod  Store the Result/Calling myMethod  Store the Result.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays as parameters/Calling varargs/Calling varargs.iml" filepath="$PROJECT_DIR$/Arrays as parameters/Calling varargs/Calling varargs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functional decomposition/Checking divisibility and printing appropriate strings/Checking divisibility and printing appropriate strings.iml" filepath="$PROJECT_DIR$/Functional decomposition/Checking divisibility and printing appropriate strings/Checking divisibility and printing appropriate strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Classes for Hospital/Classes for Hospital.iml" filepath="$PROJECT_DIR$/Inheritance/Classes for Hospital/Classes for Hospital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterating over arrays/Classifying integers as 'Odd' or 'Even'/Classifying integers as 'Odd' or 'Even'.iml" filepath="$PROJECT_DIR$/Iterating over arrays/Classifying integers as 'Odd' or 'Even'/Classifying integers as 'Odd' or 'Even'.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/Comparing strings/Comparing strings.iml" filepath="$PROJECT_DIR$/String/Comparing strings/Comparing strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/Comparing strings ignoring whitespaces/Comparing strings ignoring whitespaces.iml" filepath="$PROJECT_DIR$/String/Comparing strings ignoring whitespaces/Comparing strings ignoring whitespaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Getters and setters/Complex/Complex.iml" filepath="$PROJECT_DIR$/Getters and setters/Complex/Complex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instance methods/Complex numbers/Complex numbers.iml" filepath="$PROJECT_DIR$/Instance methods/Complex numbers/Complex numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Defining classes/Correct fields/Correct fields.iml" filepath="$PROJECT_DIR$/Defining classes/Correct fields/Correct fields.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calling methods/Correct names for methods/Correct names for methods.iml" filepath="$PROJECT_DIR$/Calling methods/Correct names for methods/Correct names for methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method  main/Creating a 'Hello, World!' program from scrambled code/Creating a 'Hello, World!' program from scrambled code.iml" filepath="$PROJECT_DIR$/Method  main/Creating a 'Hello, World!' program from scrambled code/Creating a 'Hello, World!' program from scrambled code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Getters and setters/Creating a class for a book with private properties/Creating a class for a book with private properties.iml" filepath="$PROJECT_DIR$/Getters and setters/Creating a class for a book with private properties/Creating a class for a book with private properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiple conditions  switch/Day of the week from an integer/Day of the week from an integer.iml" filepath="$PROJECT_DIR$/Multiple conditions  switch/Day of the week from an integer/Day of the week from an integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instance methods/Declare me/Declare me.iml" filepath="$PROJECT_DIR$/Instance methods/Declare me/Declare me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functional decomposition/Decomposing switch cases in Java/Decomposing switch cases in Java.iml" filepath="$PROJECT_DIR$/Functional decomposition/Decomposing switch cases in Java/Decomposing switch cases in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overloading/Determine the output/Determine the output.iml" filepath="$PROJECT_DIR$/Overloading/Determine the output/Determine the output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Break and continue. Branching/Divisible by 4/Divisible by 4.iml" filepath="$PROJECT_DIR$/Break and continue. Branching/Divisible by 4/Divisible by 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Declaring methods/Division/Division.iml" filepath="$PROJECT_DIR$/Declaring methods/Division/Division.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Getters and setters/Exploring Encapsulation in Java/Exploring Encapsulation in Java.iml" filepath="$PROJECT_DIR$/Getters and setters/Exploring Encapsulation in Java/Exploring Encapsulation in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Declaring methods/Find the max of three numbers/Find the max of three numbers.iml" filepath="$PROJECT_DIR$/Declaring methods/Find the max of three numbers/Find the max of three numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/Finding string expressions/Finding string expressions.iml" filepath="$PROJECT_DIR$/String/Finding string expressions/Finding string expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Errors in programs/Fix compile-time errors/Fix compile-time errors.iml" filepath="$PROJECT_DIR$/Errors in programs/Fix compile-time errors/Fix compile-time errors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grouping classes with packages/Fixing a greeting program/Fixing a greeting program.iml" filepath="$PROJECT_DIR$/Grouping classes with packages/Fixing a greeting program/Fixing a greeting program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method  main/Fixing the main method/Fixing the main method.iml" filepath="$PROJECT_DIR$/Method  main/Fixing the main method/Fixing the main method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiple conditions  switch/Floor-space of the room/Floor-space of the room.iml" filepath="$PROJECT_DIR$/Multiple conditions  switch/Floor-space of the room/Floor-space of the room.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays as parameters/How to invoke the method/How to invoke the method.iml" filepath="$PROJECT_DIR$/Arrays as parameters/How to invoke the method/How to invoke the method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Initializing new instances. Constructor/How to write a constructor/How to write a constructor.iml" filepath="$PROJECT_DIR$/Initializing new instances. Constructor/How to write a constructor/How to write a constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overloading/Implementing polymorphic add functions/Implementing polymorphic add functions.iml" filepath="$PROJECT_DIR$/Overloading/Implementing polymorphic add functions/Implementing polymorphic add functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instance methods/In a box/In a box.iml" filepath="$PROJECT_DIR$/Instance methods/In a box/In a box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Initializing an array of longs/Initializing an array of longs.iml" filepath="$PROJECT_DIR$/Array/Initializing an array of longs/Initializing an array of longs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays as parameters/Inverse boolean flags/Inverse boolean flags.iml" filepath="$PROJECT_DIR$/Arrays as parameters/Inverse boolean flags/Inverse boolean flags.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Declaring methods/Method signature/Method signature.iml" filepath="$PROJECT_DIR$/Declaring methods/Method signature/Method signature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Defining classes/Missing parts/Missing parts.iml" filepath="$PROJECT_DIR$/Defining classes/Missing parts/Missing parts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Multiple names of superclasses and subclasses/Multiple names of superclasses and subclasses.iml" filepath="$PROJECT_DIR$/Inheritance/Multiple names of superclasses and subclasses/Multiple names of superclasses and subclasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Defining classes/Points/Points.iml" filepath="$PROJECT_DIR$/Defining classes/Points/Points.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overloading/Print/Print.iml" filepath="$PROJECT_DIR$/Overloading/Print/Print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Declaring methods/Rectangles  The shape of things to sum/Rectangles  The shape of things to sum.iml" filepath="$PROJECT_DIR$/Declaring methods/Rectangles  The shape of things to sum/Rectangles  The shape of things to sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiple conditions  switch/Removing breaks/Removing breaks.iml" filepath="$PROJECT_DIR$/Multiple conditions  switch/Removing breaks/Removing breaks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grouping classes with packages/Required input/Required input.iml" filepath="$PROJECT_DIR$/Grouping classes with packages/Required input/Required input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NullPointerException/Return empty string when argument is null/Return empty string when argument is null.iml" filepath="$PROJECT_DIR$/NullPointerException/Return empty string when argument is null/Return empty string when argument is null.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method  main/Running a program without main/Running a program without main.iml" filepath="$PROJECT_DIR$/Method  main/Running a program without main/Running a program without main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method  main/Select all correct statements/Select all correct statements.iml" filepath="$PROJECT_DIR$/Method  main/Select all correct statements/Select all correct statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterating over arrays/Select loops/Select loops.iml" filepath="$PROJECT_DIR$/Iterating over arrays/Select loops/Select loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Errors in programs/Select the statement/Select the statement.iml" filepath="$PROJECT_DIR$/Errors in programs/Select the statement/Select the statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grouping classes with packages/Sorting arrays/Sorting arrays.iml" filepath="$PROJECT_DIR$/Grouping classes with packages/Sorting arrays/Sorting arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Errors in programs/Spot the Errors  Reading and Summing Integers/Spot the Errors  Reading and Summing Integers.iml" filepath="$PROJECT_DIR$/Errors in programs/Spot the Errors  Reading and Summing Integers/Spot the Errors  Reading and Summing Integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Errors in programs/Statements/Statements.iml" filepath="$PROJECT_DIR$/Errors in programs/Statements/Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instance methods/Static vs. Mobile  Guess the Method/Static vs. Mobile  Guess the Method.iml" filepath="$PROJECT_DIR$/Instance methods/Static vs. Mobile  Guess the Method/Static vs. Mobile  Guess the Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functional decomposition/Stop, yield, go  Traffic conductor's waltz/Stop, yield, go  Traffic conductor's waltz.iml" filepath="$PROJECT_DIR$/Functional decomposition/Stop, yield, go  Traffic conductor's waltz/Stop, yield, go  Traffic conductor's waltz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterating over arrays/Sum array elements greater than a value/Sum array elements greater than a value.iml" filepath="$PROJECT_DIR$/Iterating over arrays/Sum array elements greater than a value/Sum array elements greater than a value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Declaring methods/Sum of numbers in the range/Sum of numbers in the range.iml" filepath="$PROJECT_DIR$/Declaring methods/Sum of numbers in the range/Sum of numbers in the range.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instance methods/The Robot class/The Robot class.iml" filepath="$PROJECT_DIR$/Instance methods/The Robot class/The Robot class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Break and continue. Branching/The integer barrier/The integer barrier.iml" filepath="$PROJECT_DIR$/Break and continue. Branching/The integer barrier/The integer barrier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Break and continue. Branching/The same results/The same results.iml" filepath="$PROJECT_DIR$/Break and continue. Branching/The same results/The same results.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Theory/Theory.iml" filepath="$PROJECT_DIR$/Array/Theory/Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiple conditions  switch/Theory/Theory10.iml" filepath="$PROJECT_DIR$/Multiple conditions  switch/Theory/Theory10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Theory/Theory11.iml" filepath="$PROJECT_DIR$/Inheritance/Theory/Theory11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instance methods/Theory/Theory12.iml" filepath="$PROJECT_DIR$/Instance methods/Theory/Theory12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Break and continue. Branching/Theory/Theory13.iml" filepath="$PROJECT_DIR$/Break and continue. Branching/Theory/Theory13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/Theory/Theory14.iml" filepath="$PROJECT_DIR$/String/Theory/Theory14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NullPointerException/Theory/Theory15.iml" filepath="$PROJECT_DIR$/NullPointerException/Theory/Theory15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterating over arrays/Theory/Theory16.iml" filepath="$PROJECT_DIR$/Iterating over arrays/Theory/Theory16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Errors in programs/Theory/Theory17.iml" filepath="$PROJECT_DIR$/Errors in programs/Theory/Theory17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functional decomposition/Theory/Theory18.iml" filepath="$PROJECT_DIR$/Functional decomposition/Theory/Theory18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays as parameters/Theory/Theory19.iml" filepath="$PROJECT_DIR$/Arrays as parameters/Theory/Theory19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calling methods/Theory/Theory2.iml" filepath="$PROJECT_DIR$/Calling methods/Theory/Theory2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Getters and setters/Theory/Theory3.iml" filepath="$PROJECT_DIR$/Getters and setters/Theory/Theory3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Declaring methods/Theory/Theory4.iml" filepath="$PROJECT_DIR$/Declaring methods/Theory/Theory4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overloading/Theory/Theory5.iml" filepath="$PROJECT_DIR$/Overloading/Theory/Theory5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Initializing new instances. Constructor/Theory/Theory6.iml" filepath="$PROJECT_DIR$/Initializing new instances. Constructor/Theory/Theory6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method  main/Theory/Theory7.iml" filepath="$PROJECT_DIR$/Method  main/Theory/Theory7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Defining classes/Theory/Theory8.iml" filepath="$PROJECT_DIR$/Defining classes/Theory/Theory8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grouping classes with packages/Theory/Theory9.iml" filepath="$PROJECT_DIR$/Grouping classes with packages/Theory/Theory9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Topics.iml" filepath="$PROJECT_DIR$/.idea/Topics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NullPointerException/Unknown input/Unknown input.iml" filepath="$PROJECT_DIR$/NullPointerException/Unknown input/Unknown input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays as parameters/Varargs method invocation/Varargs method invocation.iml" filepath="$PROJECT_DIR$/Arrays as parameters/Varargs method invocation/Varargs method invocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Errors in programs/What's wrong/What's wrong.iml" filepath="$PROJECT_DIR$/Errors in programs/What's wrong/What's wrong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functional decomposition/Why decompose a program/Why decompose a program.iml" filepath="$PROJECT_DIR$/Functional decomposition/Why decompose a program/Why decompose a program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/calculating triangle perimeter/calculating triangle perimeter.iml" filepath="$PROJECT_DIR$/Inheritance/calculating triangle perimeter/calculating triangle perimeter.iml" />
+    </modules>
+  </component>
+</project>
